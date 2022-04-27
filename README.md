@@ -10,11 +10,9 @@ JAVA와 JS 위주로 공부하고 있어요. 📝 <br>
 깔끔한 코드도 좋아합니다. 🧹 <br>
 
 <br>
-<br>
   
 ___
   
-<br>
 <br>
 
 ### 🔫skills
@@ -31,6 +29,10 @@ ___
 ![header](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white)
 ![header](https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=Oracle&amp;logoColor=white)
   
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
