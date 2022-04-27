@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6E2FC7&height=300&section=header&text=Hellowwww!%20&fontSize=80&fontAlignY=43&animation=fadeIn&fontColor=fff)
-
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=6E2FC7&height=300&section=header&text=Hellowwww!%20&fontSize=80&fontAlignY=43&animation=fadeIn&fontColor=fff)
 
 안녕하세요!👋 <br>
 백엔드를 공부하고 있는 황승이라고 합니다. 🙋 <br>
@@ -9,7 +9,7 @@ JAVA와 JS 위주로 공부하고 있어요. 📝 <br>
 커피와 영화를 좋아합니다. ☕🎬 <br>
 깔끔한 코드도 좋아합니다. 🧹 <br>
 
----
+___
 
 ### 🔫skills
 
