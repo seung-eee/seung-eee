@@ -28,6 +28,8 @@ ___
 ![header](https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=MariaDB&amp;logoColor=white)
 ![header](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white)
   
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  
 <br>
 <br>
 <br>
