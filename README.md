@@ -5,7 +5,7 @@
   </p>
 
   <p>
-    <a href="https://blog.naver.com/hsend0326" target="_blank"><img src="https://img.shields.io/badge/BLOG-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+    <a href="https://2seung.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
     <a href="mailto:hsend0326@naver.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </p>
 
