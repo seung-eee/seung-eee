@@ -27,7 +27,6 @@ ___
 <br>
 ![header](https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=MariaDB&amp;logoColor=white)
 ![header](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white)
-![header](https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=Oracle&amp;logoColor=white)
   
 <br>
 <br>
