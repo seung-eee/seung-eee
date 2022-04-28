@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://blog.naver.com/hsend0326" target="_blank"><img src="https://img.shields.io/badge/BLOG-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-    <a href="mailto:hsend0326@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:hsend0326@naver.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </p>
 
   <p>
@@ -26,7 +26,7 @@
 
   ### 🔫skills
   <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" style="cusor:none"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" style="cursor:none"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   </p>
